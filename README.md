@@ -1,2 +1,2 @@
 # Chrome-Extension
-changes the word coronvirus to flash rainbow colors
+changes instances of the word coronavirus to flash rainbow colors
